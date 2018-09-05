@@ -10,9 +10,9 @@ You can test our minimum viable product (MVP) at this [link](http://hack.mynemma
 ## From left to right:
 - [Daniel Dao](https://github.com/DanDanDao)
 - [Blaise Saunders](https://github.com/DavidoRotho)
-- Me
+- [Michael Dao](https://github.com/michaeldao)
 - [Simon Lay](https://github.com/xiro24)
-- [Boxuan Lu](https://github.com/BoxHezi)
+- Me
 - [Jye Lake](https://github.com/s3685254)
 
 ![Team LendLease](https://github.com/MichaelDao/Lend-Lease-AR-Smart-Documents/blob/master/2nd.jpg)
